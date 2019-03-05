@@ -99,7 +99,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/allan9595/allaninstagram/blob/master/walkthrough1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/allan9595/allaninstagram/blob/master/walkthrough3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
